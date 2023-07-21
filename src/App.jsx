@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import Navbar from "./components/Navbar"
-import Posts from "./components/posts"
+import Posts from "./components/Posts"
 import { Routes, Route } from 'react-router-dom'
 import Play from "./components/Play"
 import NewPost from "./components/NewPost"
